@@ -15,6 +15,7 @@ import java.util.ArrayList;
 import java.util.List;
 // MANTENER
 // ULTIMO
+//d wdw
 @CrossOrigin(origins = "*")
 @RestController
 @RequestMapping("api/producto")
